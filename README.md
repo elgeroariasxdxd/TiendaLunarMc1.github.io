@@ -48,14 +48,13 @@ Entre los principales archivos y componentes se encuentran:
 ## Instalación y Ejecución Local
 
 ### 1. Clonar el repositorio
-
+https://github.com/elgeroariasxdxd/TiendaLunarMc1.github.io
 Clonar el repositorio desde GitHub:
 
 ```bash
 git clone https://github.com/geroarias
 ```
 
-Reemplazar `TU-USUARIO` y `TU-REPOSITORIO` por los datos correspondientes al repositorio.
 
 ### 2. Ubicar el proyecto en el servidor local
 
@@ -93,10 +92,9 @@ Si el proyecto utiliza una base de datos, importar el archivo SQL correspondient
 Abrir el navegador y acceder a:
 
 ```text
-http://localhost/LunarMC/
+http://localhost/lunarmc/
 ```
 
-La dirección exacta puede variar según el nombre utilizado para la carpeta del proyecto dentro de `htdocs`.
 
 ## Evidencia de Funcionamiento
 
@@ -149,7 +147,6 @@ Entre los aspectos implementados se encuentran:
 
 **Captura:**
 
-*Pegar aquí una captura donde se observe el título dinámico y la opción activa del menú.*
 
 ---
 
