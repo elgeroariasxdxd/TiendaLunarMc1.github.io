@@ -109,7 +109,7 @@ http://localhost/LunarMC/
 ```
 
 **Captura:**
-![Servidor Local Ejecutándose](lunarmc/prueba de funcionalidad)
+![Servidor Local Ejecutándose](lunarmc/prueba de funcionalidad.png)
 
 ---
 
