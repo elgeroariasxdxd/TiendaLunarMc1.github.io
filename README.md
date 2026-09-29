@@ -52,7 +52,7 @@ Entre los principales archivos y componentes se encuentran:
 Clonar el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
+git clone https://github.com/geroarias
 ```
 
 Reemplazar `TU-USUARIO` y `TU-REPOSITORIO` por los datos correspondientes al repositorio.
@@ -109,7 +109,10 @@ http://localhost/LunarMC/
 ```
 
 **Captura:**
-![Servidor Local Ejecutándose](capturas/captura de funcionalidad.png)
+![Servidor Local Ejecutándose](capturas/captura-funcionalidad.png)
+![Estructura Modular SSI](capturas/estructura-ssi.png)
+![Navegación Dinámica](capturas/navegacion-dinamica.png)
+![Configuración de Variables de Entorno](capturas/env-example.png)
 
 ---
 
