@@ -108,9 +108,6 @@ http://localhost/LunarMC/
 
 **Captura:**
 ![Servidor Local Ejecutándose](capturas/captura-funcionalidad.png)
-![Estructura Modular SSI](capturas/estructura-ssi.png)
-![Navegación Dinámica](capturas/navegacion-dinamica.png)
-![Configuración de Variables de Entorno](capturas/env-example.png)
 
 ---
 
@@ -130,8 +127,7 @@ includes/
 Estos archivos permiten reutilizar las diferentes partes de la interfaz entre las páginas del proyecto.
 
 **Captura:**
-
-*Pegar aquí una captura donde se observe la estructura y/o el código de los archivos PHP.*
+![Estructura Modular SSI](capturas/estructura-ssi.png)
 
 ---
 
@@ -146,9 +142,7 @@ Entre los aspectos implementados se encuentran:
 * Aplicación de la clase `active` al elemento correspondiente del menú de navegación.
 
 **Captura:**
-
-
----
+![Navegación Dinámica](capturas/navegacion-dinamica.png)
 
 ### Configuración de Variables de Entorno
 
@@ -157,8 +151,7 @@ El proyecto incluye un archivo `.env.example` que sirve como referencia para con
 El archivo de ejemplo no contiene credenciales reales ni información sensible.
 
 **Captura:**
-
-*Pegar aquí una captura del archivo `.env.example`.*
+![Configuración de Variables de Entorno](capturas/env-example.png)
 
 ## Git y Control de Versiones
 
